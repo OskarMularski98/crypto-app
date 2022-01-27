@@ -1,7 +1,11 @@
 # Crypto App
 Check this site out! 💹💲
 
-https://crypto-app-om.herokuapp.com/
+▪
+
+https://crypto-app-om.herokuapp.com/ 📄
+
+▪
 
 ![1](https://user-images.githubusercontent.com/56295769/151368903-34153d3e-7f89-484e-a7f3-28912a6269da.PNG)
 ![2](https://user-images.githubusercontent.com/56295769/151368909-dd2cc163-e97d-4da5-b898-652e8cac14e8.PNG)
