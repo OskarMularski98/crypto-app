@@ -1,3 +1,4 @@
+# Crypto App
 Check this site out! 💹💲
 
 https://crypto-app-om.herokuapp.com/
