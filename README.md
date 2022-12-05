@@ -3,7 +3,7 @@ Check this site out! 💹💲
 
 ▪
 
-https://crypto-app-om.herokuapp.com/ 📄
+https://crypto-app-7d705.firebaseapp.com 📄
 
 ▪
 
